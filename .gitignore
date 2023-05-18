@@ -1,0 +1,12 @@
+.DS_Store
+*~
+*.bak
+*.yml.orig
+#*.erb.orig
+rubygems/*
+tmp/*
+imakita3gyo-ai_illustrator-pdf/*
+imakita3gyo-ai_illustrator-md/*
+
+contents_old/*
+images_old/*
